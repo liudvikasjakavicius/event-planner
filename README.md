@@ -1,4 +1,4 @@
-# Event Management App - Vue.js
+# Event-Management-Liudvikas-Jakavicius-App
 
 ## For Project setup
 ```
@@ -12,4 +12,4 @@ npm run serve
 ```
 npm run build
 ```
-# Event-Management-Liudvikas-Jakavicius
+
